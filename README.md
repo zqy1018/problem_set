@@ -1,2 +1,3 @@
-# problem_set
-Some sets of problems
+# 练习集
+
+偶尔摸点题目，找个地方放，方便整理。
